@@ -45,8 +45,6 @@ I'm Alhussin Ossama
 <img src="https://cdn.jim-nielsen.com/macos/512/github-desktop-2021-05-20.png" alt="github" width="40" height="40" />  	&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>	&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a>	&nbsp;
-<img src="https://onlinedocs.microchip.com/pr/GUID-240F27AA-C615-4705-B68C-6E434B126B47-en-US-1/GUID-6B24C861-D4B8-4403-8CF2-035FD3FB8B42-low.png" alt="mplab" width="40" height="40"/> </a>	&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/gcc/gcc-original.svg" alt="gcc" width="40" height="40"/> </a>	&nbsp;
 </p>
 
 
