@@ -18,8 +18,7 @@ I'm Alhussin Ossama
 
 ## <img src="https://media2.giphy.com/media/z9vxfIMzxbTaGwBkc5/giphy_s.gif?cid=ecf05e47cjnt33447pqnhksb17ve7x5zi6bsr2dagkvtdyvh&rid=giphy_s.gif&ct=s" width="40"> &nbsp; **About me**
 
--  I’m currently working on <b><i>PIC18F4620</i></b> and <b><i>Web Page</i></b>.
--  I’m currently learning  <b><i>Embedded Systems</i></b> by building projects & <b><i>HTML, CSS, JS</i></b>.
+-  I’m currently working on Some Projects.
 -  I enjoy exploring new skills and implementing them in my projects
 -  How to reach me: **hussinossama44@gmail.com**
 
